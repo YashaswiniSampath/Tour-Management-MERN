@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders page 1`] = `
+<header
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-11b3ww9-MuiPaper-root-MuiAppBar-root"
+  style={
+    Object {
+      "backgroundColor": "#2484BF",
+      "width": "100%",
+    }
+  }
+>
+  <div
+    className="MuiToolbar-root MuiToolbar-regular css-1l9c7aa-MuiToolbar-root"
+  >
+    <img
+      alt="EZTravel Logo"
+      className="MuiBox-root css-3jnihy"
+      src="EZTravelLogo.png"
+    />
+    <a
+      className="MuiTypography-root MuiTypography-h6 MuiTypography-noWrap css-m5x0z-MuiTypography-root"
+      href="/"
+    >
+      EZTravel
+    </a>
+    <div
+      className="MuiBox-root css-i9gxme"
+    />
+    <button
+      className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit MuiButton-root MuiButton-text MuiButton-textInherit MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorInherit css-1uh6h56-MuiButtonBase-root-MuiButton-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      Return to Home
+    </button>
+  </div>
+</header>
+`;

@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders page 1`] = `
+<div
+  className="modal-backdrop"
+>
+  <div
+    className="review-modal"
+  >
+    <h2>
+      Leave a Review for 
+      Test name
+    </h2>
+    <div
+      className="review-input"
+    >
+      <textarea
+        onChange={[Function]}
+        placeholder="Write your review here..."
+        value=""
+      />
+      <input
+        max="5"
+        min="1"
+        onChange={[Function]}
+        placeholder="Rating (1-5)"
+        type="number"
+        value={0}
+      />
+      <button
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#2484BF",
+            "color": "white",
+          }
+        }
+      >
+        Submit Review
+      </button>
+      <button
+        style={
+          Object {
+            "backgroundColor": "#2484BF",
+            "color": "white",
+          }
+        }
+      >
+        Close
+      </button>
+    </div>
+  </div>
+</div>
+`;
