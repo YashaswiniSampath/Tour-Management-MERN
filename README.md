@@ -24,5 +24,3 @@ When cloning the repo, navigate to the root directory and run `npm install` to i
 - `@mui/icons-material`: Material-UI icons for enhanced UI components.
 
 ---
-
-This setup enhances the clarity and details about the project, its structure, dependencies, and how to get started with running and testing the application.
