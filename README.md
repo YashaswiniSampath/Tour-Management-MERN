@@ -15,14 +15,6 @@ This project is a comprehensive Tour Management System (EzTravel) implemented us
 
 ---
 
-## Getting Started
-When cloning the repo, navigate to the root directory and run `npm install` to install dependencies and start the project.
-
-### Available Scripts
-- `npm start`: Runs the app in development mode on [http://localhost:3000](http://localhost:3000).
-- `npm test`: Launches the test runner in interactive watch mode.
-- `npm run build`: Builds the app for production in the `build` folder.
-
 ### Additional Dependencies
 - `react-router-dom`: For client-side routing.
 - `@mui/icons-material`: Material-UI icons for enhanced UI components.
