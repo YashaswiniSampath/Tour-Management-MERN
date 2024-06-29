@@ -14,9 +14,3 @@ This project is a comprehensive Tour Management System (EzTravel) implemented us
 - **P465-Tour-Management-Place-BE-main**: Backend service for places, hotels, and flights.
 
 ---
-
-### Additional Dependencies
-- `react-router-dom`: For client-side routing.
-- `@mui/icons-material`: Material-UI icons for enhanced UI components.
-
----
